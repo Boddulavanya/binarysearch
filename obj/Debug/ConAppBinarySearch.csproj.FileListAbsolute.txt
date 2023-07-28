@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppBinarySearch\ConAppBinarySearch\bin\Debug\ConAppBinarySearch.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppBinarySearch\ConAppBinarySearch\bin\Debug\ConAppBinarySearch.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppBinarySearch\ConAppBinarySearch\bin\Debug\ConAppBinarySearch.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppBinarySearch\ConAppBinarySearch\obj\Debug\ConAppBinarySearch.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppBinarySearch\ConAppBinarySearch\obj\Debug\ConAppBinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppBinarySearch\ConAppBinarySearch\obj\Debug\ConAppBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppBinarySearch\ConAppBinarySearch\obj\Debug\ConAppBinarySearch.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-15\ConAppBinarySearch\ConAppBinarySearch\obj\Debug\ConAppBinarySearch.pdb
